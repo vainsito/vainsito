@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on iso9001 standards<br>🌱 I’m currently learning computer vision and deep learning<br>⚡ Fun fact i play LoL and I love raccoons
+🔭 I’m currently working on GII company as Backend developer :D<br>🌱 I’m currently learning computer vision and deep learning<br>⚡ Fun fact i play LoL and I love raccoons
 
 
 ## 🌐 Socials:
